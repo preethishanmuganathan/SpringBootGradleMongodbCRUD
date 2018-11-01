@@ -1,0 +1,8 @@
+package com.javadomain.SpringBoothello;
+
+public class Snippet {
+	public static void main(String[] args) {
+		server.port: 8080
+	}
+}
+

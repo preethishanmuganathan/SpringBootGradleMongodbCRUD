@@ -1,0 +1,13 @@
+package com.example;
+
+import static org.junit.Assert.assertTrue;
+
+import org.apache.tomcat.jni.Library;
+import org.junit.Test;
+
+public class StartTest {
+	@Test public void testSomeLibraryMethod() {
+        Library classUnderTest = new Library();
+        assertTrue("someLibraryMethod should return 'true'", classUnderTest.someLibraryMethod());
+    }
+}

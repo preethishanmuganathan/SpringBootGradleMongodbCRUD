@@ -1,0 +1,12 @@
+package com.example.SpringBootMongoCRUDoperation;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringBootMongoCruDoperationApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringBootMongoCruDoperationApplication.class, args);
+	}
+}

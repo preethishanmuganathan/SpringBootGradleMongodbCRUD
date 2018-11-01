@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.StartTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-10-31T17:56:59" hostname="PW10AM1XDH41622" time="0.009">
+  <properties/>
+  <testcase name="testSomeStartMethod" classname="com.example.StartTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
